@@ -18,6 +18,8 @@ Este proyecto es un sistema de gestión y reproducción de música desarrollado 
 
 ## Instrucciones de Compilación
 Para compilar el proyecto fuera de un IDE, utilice el script proporcionado según su sistema operativo (build.bat para Windows). Estos scripts automatizan la configuración de CMake y el proceso de construcción, asegurando un entorno de compilación estándar.
+En caso de error en Ides como CLion:
+"Abra la carpeta raíz del proyecto en su IDE compatible con CMake (como CLion) y seleccione el target untitled"
 
 [Diagrama de clases taller 2.pdf](https://github.com/user-attachments/files/29616207/Diagrama.de.clases.taller.2.pdf)
 
